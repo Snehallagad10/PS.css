@@ -1,0 +1,21 @@
+.one {
+    background-color: #f0f8ff;
+    color: #333333;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #4caf50;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: fit-content;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .one:hover {
+    background-color: #4caf50;
+    color: white;
+    transform: scale(1.05);
+  }
+  

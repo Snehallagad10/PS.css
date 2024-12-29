@@ -1,0 +1,13 @@
+.one {
+    background-color: rgb(182, 93, 11);
+    padding: 10px;
+    text-align: center;
+}
+.two {
+    border: 2px solid black;
+    font-weight: bold;
+}
+.three {
+    font-size: 20px;
+    color: white;
+}
